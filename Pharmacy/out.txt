@@ -1,0 +1,9 @@
+He
+Man
+
+  /*  public String names = "medicine";
+    int value = 2022;
+    public String firm_names = "<medicine_firm>";
+    int package_file = 1;
+    double price = 1.5;*/
+  import static java.lang.Long.valueOf;

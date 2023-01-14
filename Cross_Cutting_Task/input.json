@@ -1,0 +1,14 @@
+{
+  "expressions": [
+    {
+      "expression0": "5/2",
+      "expression1": "3/0",
+      "expression2": "4/2"
+    },
+    {
+      "expression0": "12 * 2",
+      "expression1": "2 * 2",
+      "expression2": "3 * 2.5"
+    }
+  ]
+}
